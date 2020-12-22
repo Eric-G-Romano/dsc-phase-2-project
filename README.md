@@ -29,7 +29,7 @@ Upon initial visualizations, we find the following features to have a strong lin
 
 Our added features seem to work out great as well. From the initial look, school rating seems to play a major role in pricing as well. 
 
-![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/grade_rank.png.png?raw=true)
+![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/grade_rank.png?raw=true)
 
 
 
