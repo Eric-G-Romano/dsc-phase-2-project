@@ -79,5 +79,5 @@ For future work, we would do the following:
 
 ### Conclusion 
 
-Our final model had an R-squared value of .702, an Omnibus of 271.631 and a Durbin-Watson score of 2.0, meaning our prediction can predict about 70.2% of home values accurately. Our Omnibus scores tell us that our data follows the assumptions of normality and homoscedasticity. We feel confident that our final model can predict the home values, even outside of our dataset. The features inluded have a P-Value of 0.00, meaning we have a 0% chance that we would get that value without our model. Because our features have a 0.00 P-value, we can reject our null hypothesis and accept the alternative, stating that our features have a linear relationship with price. 
+Our final model had an R-squared value of .702, an Omnibus of 271.631 and a Durbin-Watson score of 2.0, meaning our prediction can predict about 70.2% of home values accurately. Our Omnibus scores tell us that our data follows the assumptions of normality and homoscedasticity. We feel confident that our final model can predict the home values, even outside of our dataset. The features inluded have a P-Value of 0.00, we can reject our null hypothesis that the coefficients are actually equal to zero and accept the alternative, stating that our features have a linear relationship with price. 
 
