@@ -16,8 +16,20 @@ Our original dataset contains real estate info for houses in 2014-2015, with fea
 
 Given that we are catering to first time home buyers, we've also added features not included in the dataset, including distance to points of interest, such as transportation centers, medical centers and police stations, criminality rate, school ratings and walking score. 
 
-Upon initial visualizations, we find the following features to have a strong linear relationship with price: square foootage (living) and building grade. 
+![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/df_hist.png?raw=true)
+
+A histogram of our DataFrame shows which features follow a normal distribution, and it also gives us a great idea of which features we'd need to deal with as categorical. This knowledge will help us later when we process the data using log transformations and dummy variables. 
+
+Upon initial visualizations, we find the following features to have a strong linear relationship with price: square foootage (living, above) and building grade. 
+
 
 ![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/img1.png?raw=true)
 ![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/img2.png?raw=true)
 ![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/grade.png?raw=true)
+
+Our added features seem to work out great as well. From the initial look, school rating seems to play a major role in pricing as well. 
+
+![alt text](https://github.com/Eric-G-Romano/dsc-phase-2-project/blob/christian_branch/grade_rank.png.png?raw=true)
+
+
+
